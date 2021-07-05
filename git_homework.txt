@@ -1,0 +1,12 @@
+1. Заходим в терминале каталог проекта ..../Git Homework/
+2. вводим команду git init
+3. создаем файл .gitignore в корне проекта
+    3.1. Вносим данные в файл:
+        *.sass
+        /bin
+        /admin
+        /config
+4. git add .
+5. создаем новую ветку ..../Git Homework/TheNewBranch
+6. создаем папку blog в ..../Git Homework/TheNewBranch
+7. создаем index.js, index.html в ..../Git Homework/TheNewBranch/blog
