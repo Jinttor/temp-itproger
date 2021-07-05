@@ -7,6 +7,6 @@
         /admin
         /config
 4. git add .
-5. создаем новую ветку ..../Git Homework/TheNewBranch
+5. создаем новую ветку Homework
 6. создаем папку blog в ..../Git Homework/TheNewBranch
 7. создаем index.js, index.html в ..../Git Homework/TheNewBranch/blog
