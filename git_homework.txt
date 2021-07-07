@@ -7,6 +7,17 @@
         /admin
         /config
 4. git add .
-5. создаем новую ветку Homework
-6. создаем папку blog в ..../Git Homework/TheNewBranch
-7. создаем index.js, index.html в ..../Git Homework/TheNewBranch/blog
+
+!!! расхождение с видеоуроком!!!
+!!! git не создает новый каталог при создании ветки, а только указатель!!!
+!!! так же git не создает пустые папки!!!
+!!! поэтому создание файлов идет через копирование!!!
+
+5. создаем папку blog с файлами index.html и index.js в ..../Git Homework/
+6. Делаем комит изменений
+
+7. создаем новую ветку: git branch homework
+8. копирую каталог с файлами в новую ветку git checkout master blog/*.*
+
+
+Q
